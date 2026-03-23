@@ -1,1 +1,1 @@
-vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@vangoghhh.info:443?encryption=none&security=tls&sni=vangoghhh.info&type=ws&host=vangoghhh.info&path=/tixvuws&#[%F0%9F%87%A9%F0%9F%87%AA]%20[vl-tl-ws]%20[260322-105604.345]
+vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@172.66.44.211:443?encryption=none&security=tls&sni=vangoghhh.info&type=ws&host=vangoghhh.info&path=/tixvuws&packetEncoding=xudp#[%F0%9F%87%A9%F0%9F%87%AA]%20[vl-tl-ws]%20[260322-105604.345]
